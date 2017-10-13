@@ -1,0 +1,19 @@
+.yellow, .gray{
+	margin: 10px;
+	padding: 10px;
+	/*inline-block pone los cuadros uno al lado del otro*/
+	display: inline-block;
+	/*cuando no se establecen valores para weight y height,
+	automáticamente establece el ancho y alto del texto
+	que está dentro*/
+}
+
+
+.yellow{
+	background-color: gold;
+}
+
+.gray{
+	background-color: black;
+	color: white;
+}
